@@ -2,46 +2,42 @@
 
 ## Sources (15)
 
-https://www.example.com/source1
-https://www.example.com/source2
-https://www.example.com/source3
-https://www.example.com/source4
-https://www.example.com/source5
-https://www.example.com/source6
-https://www.example.com/source7
-https://www.example.com/source8
-https://www.example.com/source9
-https://www.example.com/source10
-https://www.example.com/source11
-https://www.example.com/source12
-https://www.example.com/source13
-https://www.example.com/source14
-https://www.example.com/source15
-
-### Source Details
-Curated sources covering Policy as Code IT from multiple expert perspectives.
+https://www.openpolicyagent.org/
+https://www.openpolicyagent.org/docs/latest/
+https://www.styra.com/policy-as-code/
+https://www.hashicorp.com/resources/what-is-policy-as-code
+https://www.terraform.io/cloud-docs/policy-enforcement
+https://www.pulumi.com/crossguard/
+https://kyverno.io/
+https://www.checkov.io/
+https://github.com/open-policy-agent/gatekeeper
+https://www.openpolicyagent.org/ecosystem/
+https://www.cncf.io/blog/2021/08/06/open-policy-agent-introduction/
+https://www.infoq.com/articles/policy-as-code/
+https://thenewstack.io/policy-as-code-the-new-approach-to-cloud-native-authorization/
+https://www.redhat.com/en/topics/automation/what-is-policy-as-code
+https://aws.amazon.com/blogs/mt/how-to-use-aws-config-to-enforce-policies-as-code/
 
 ## Audio Overview Prompts
 
-### Overview 1: Fundamentals and Strategic Context
-For a senior IT director at Morning Brew leveling up to higher tech leadership, understanding Policy as Code IT foundations, business drivers, and strategic importance.
+### Overview 1: Fundamentals
+Policy as code fundamentals - expressing IT policies in machine-readable format (OPA, Sentinel, Kyverno); Managing Okta policies, Jamf configurations, Workspace settings as code.
 
-### Overview 2: Technical Deep Dive
-Technical implementation details, architecture patterns, platform-specific considerations, and hands-on configuration guidance.
+### Overview 2: Technical Implementation
+Deep dive into technical details, platform-specific configuration, and hands-on implementation guidance for Policy as Code IT.
 
-### Overview 3: Implementation and Best Practices
-Practical implementation strategies, common pitfalls, real-world examples, and battle-tested approaches from experienced practitioners.
+### Overview 3: Best Practices
+Real-world examples, common pitfalls, battle-tested approaches from organizations who've successfully implemented Policy as Code IT.
 
 ### Overview 4: Integration and Ecosystem
-How this topic integrates with existing systems, tools, and processes. Cross-functional considerations and organizational impact.
+How Policy as Code IT integrates with existing tools and processes. Cross-functional implications and organizational change management.
 
-### Overview 5: Operational Excellence and Maturity
-Sustainable operations, monitoring, optimization, continuous improvement, and building organizational capability over time.
+### Overview 5: Operational Maturity
+Sustainable operations, monitoring, continuous improvement, and building long-term organizational capability around Policy as Code IT.
 
 ## Usage Instructions
-1. Create a new notebook in Google NotebookLM
-2. Copy all URLs from the Sources section
-3. Paste into NotebookLM
-4. Generate audio overviews using prompts in sequence (1→2→3→4→5)
+1. Create notebook in Google NotebookLM
+2. Paste all source URLs
+3. Generate audio overviews 1→5
 
-This learning path is tailored for IT leaders transitioning to strategic tech leadership roles.
+Tailored for senior IT directors at mid-size companies leveling up to strategic tech leadership.

@@ -1,47 +1,44 @@
-# NotebookLM Lesson Plan: SaaS Config Posture Reviews Monthly
+# NotebookLM Lesson Plan: SaaS Config Posture Reviews (Monthly)
 
 ## Sources (15)
 
-https://www.example.com/source1
-https://www.example.com/source2
-https://www.example.com/source3
-https://www.example.com/source4
-https://www.example.com/source5
-https://www.example.com/source6
-https://www.example.com/source7
-https://www.example.com/source8
-https://www.example.com/source9
-https://www.example.com/source10
-https://www.example.com/source11
-https://www.example.com/source12
-https://www.example.com/source13
-https://www.example.com/source14
-https://www.example.com/source15
-
-### Source Details
-Curated sources covering SaaS Config Posture Reviews Monthly from multiple expert perspectives.
+https://www.wiz.io/academy/saas-security-posture-management-sspm
+https://www.nudgesecurity.com/post/the-definitive-guide-to-saas-security-posture-management
+https://learn.microsoft.com/en-us/defender-cloud-apps/security-saas
+https://www.vertice.one/explore/saas-security-posture-management-sspm
+https://www.netskope.com/products/saas-security-posture-management
+https://www.zluri.com/blog/saas-security-posture-management
+https://www.softwaretestinghelp.com/sspm-saas-security-posture-management-services/
+https://www.obsidiansecurity.com/solutions/saas-security-posture-management/
+https://www.docontrol.io/blog/saas-security-posture-management
+https://www.reco.ai/blog/what-is-saas-security-posture-management
+https://www.wing-security.com/saas-security-platform/sspm/
+https://www.grip.security/blog/saas-security-posture-management
+https://www.cisco.com/c/en/us/products/security/cloudlock/saas-security-posture-management.html
+https://www.gartner.com/reviews/market/saas-management-platforms
+https://www.csoonline.com/article/574884/how-to-secure-saas-applications.html
 
 ## Audio Overview Prompts
 
-### Overview 1: Fundamentals and Strategic Context
-For a senior IT director at Morning Brew leveling up to higher tech leadership, understanding SaaS Config Posture Reviews Monthly foundations, business drivers, and strategic importance.
+### Overview 1: SSPM Fundamentals
+You are creating an audio overview for a senior IT director at Morning Brew with dozens of SaaS apps who needs to understand SaaS Security Posture Management (SSPM) - why manual reviews don't scale and how SSPM provides continuous security visibility.
 
-### Overview 2: Technical Deep Dive
-Technical implementation details, architecture patterns, platform-specific considerations, and hands-on configuration guidance.
+**Cover:** SaaS sprawl and misconfiguration risks; Configuration drift over time; Manual review limitations; SSPM capabilities - discovery, benchmarking, alerting; Real-world breach examples from SaaS misconfigurations.
+**Exclude:** Tool selection (Overview 2), Review programs (Overview 3), App-specific configs (Overview 4), Automation (Overview 5).
 
-### Overview 3: Implementation and Best Practices
-Practical implementation strategies, common pitfalls, real-world examples, and battle-tested approaches from experienced practitioners.
+### Overview 2: SSPM Tool Selection
+Evaluating and implementing SSPM solutions - Microsoft Defender, specialized vendors, API requirements, cost models.
 
-### Overview 4: Integration and Ecosystem
-How this topic integrates with existing systems, tools, and processes. Cross-functional considerations and organizational impact.
+### Overview 3: Monthly Review Program
+Building sustainable monthly reviews - cadence, stakeholders, remediation workflows, tracking trends.
 
-### Overview 5: Operational Excellence and Maturity
-Sustainable operations, monitoring, optimization, continuous improvement, and building organizational capability over time.
+### Overview 4: Critical SaaS Configurations
+Key security settings for Okta, Google Workspace, M365, Slack, and other core apps.
+
+### Overview 5: Automation and Maturity
+Automated remediation, policy-as-code, self-healing configurations, continuous compliance.
 
 ## Usage Instructions
-1. Create a new notebook in Google NotebookLM
-2. Copy all URLs from the Sources section
-3. Paste into NotebookLM
-4. Generate audio overviews using prompts in sequence (1→2→3→4→5)
-
-This learning path is tailored for IT leaders transitioning to strategic tech leadership roles.
+1. Create notebook in NotebookLM
+2. Paste all source URLs
+3. Generate audio overviews 1→5

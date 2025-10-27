@@ -2,46 +2,40 @@
 
 ## Sources (15)
 
-https://www.example.com/source1
-https://www.example.com/source2
-https://www.example.com/source3
-https://www.example.com/source4
-https://www.example.com/source5
-https://www.example.com/source6
-https://www.example.com/source7
-https://www.example.com/source8
-https://www.example.com/source9
-https://www.example.com/source10
-https://www.example.com/source11
-https://www.example.com/source12
-https://www.example.com/source13
-https://www.example.com/source14
-https://www.example.com/source15
-
-### Source Details
-Curated sources covering Alert Fatigue Rehab from multiple expert perspectives.
+https://www.splunk.com/en_us/blog/learn/alert-fatigue.html
+https://www.datadoghq.com/blog/best-practices-to-prevent-alert-fatigue/
+https://www.pagerduty.com/resources/digital-operations/learn/alert-fatigue/
+https://www.logicmonitor.com/blog/network-monitoring-avoid-alert-fatigue
+https://www.atlassian.com/incident-management/on-call/alert-fatigue
+https://betterstack.com/community/guides/monitoring/best-practices-alert-fatigue/
+https://www.ibm.com/think/topics/alert-fatigue
+https://www.redlegg.com/blog/siem-alert
+https://www.xmatters.com/blog/how-to-spot-the-effects-of-alert-fatigue
+https://www.temperstack.com/blog/reliability-foundations-2-alert-fatigue-and-noise-optimization
+https://response.pagerduty.com/oncall/alerting_principles/
+https://www.blameless.com/blog/reducing-alert-fatigue
+https://www.gartner.com/en/doc/reducing-alert-fatigue-while-improving-security
+https://sre.google/sre-book/monitoring-distributed-systems/
+https://victorops.com/blog/alert-fatigue-best-practices
 
 ## Audio Overview Prompts
 
-### Overview 1: Fundamentals and Strategic Context
-For a senior IT director at Morning Brew leveling up to higher tech leadership, understanding Alert Fatigue Rehab foundations, business drivers, and strategic importance.
+### Overview 1: The Alert Fatigue Crisis
+Understanding alert fatigue - 63% of orgs get 1000+ alerts daily, 52% are false positives, impact on response times, burnout, and missed critical alerts.
 
-### Overview 2: Technical Deep Dive
-Technical implementation details, architecture patterns, platform-specific considerations, and hands-on configuration guidance.
+### Overview 2: Alert Tuning and Threshold Management
+Adjusting alert thresholds, risk-based scoring, suppression rules, maintenance windows, and eliminating noise without creating blind spots.
 
-### Overview 3: Implementation and Best Practices
-Practical implementation strategies, common pitfalls, real-world examples, and battle-tested approaches from experienced practitioners.
+### Overview 3: Consolidation, Deduplication, and Grouping
+Event correlation, alert storms management, intelligent grouping, reducing 100 related alerts to 1 notification, PagerDuty/xMatters patterns.
 
-### Overview 4: Integration and Ecosystem
-How this topic integrates with existing systems, tools, and processes. Cross-functional considerations and organizational impact.
+### Overview 4: AI-Powered Alert Triage
+ML-driven anomaly detection, NLP for alert classification, auto-remediation for known issues, reducing manual triage workload.
 
-### Overview 5: Operational Excellence and Maturity
-Sustainable operations, monitoring, optimization, continuous improvement, and building organizational capability over time.
+### Overview 5: Building a Culture of Actionable Alerts
+Every alert must be actionable; alert reviews and pruning; measuring signal-to-noise ratio; continuous improvement processes.
 
 ## Usage Instructions
-1. Create a new notebook in Google NotebookLM
-2. Copy all URLs from the Sources section
-3. Paste into NotebookLM
-4. Generate audio overviews using prompts in sequence (1→2→3→4→5)
-
-This learning path is tailored for IT leaders transitioning to strategic tech leadership roles.
+1. Create notebook in NotebookLM
+2. Paste source URLs
+3. Generate audio overviews 1→5

@@ -2,46 +2,33 @@
 
 ## Sources (15)
 
-https://www.example.com/source1
-https://www.example.com/source2
-https://www.example.com/source3
-https://www.example.com/source4
-https://www.example.com/source5
-https://www.example.com/source6
-https://www.example.com/source7
-https://www.example.com/source8
-https://www.example.com/source9
-https://www.example.com/source10
-https://www.example.com/source11
-https://www.example.com/source12
-https://www.example.com/source13
-https://www.example.com/source14
-https://www.example.com/source15
-
-### Source Details
-Curated sources covering NDI vs SDI Room Design Choices from multiple expert perspectives.
+https://www.ndi.tv/
+https://www.newtek.com/ndi/
+https://downloads.ndi.tv/SDK/NDI_SDK.pdf
+https://www.smpte.org/about/st-2110
+https://ieeexplore.ieee.org/document/8165971
+https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-32
+https://www.aja.com/products/kona-5
+https://www.avnetwork.com/features/ndi-vs-sdi-which-is-best
+https://www.videomaker.com/article/c05/19720-understanding-sdi-video
+https://www.roland.com/us/proav/support/by_product/v-1hd_mk2/knowledge_base/90956807/
+https://www.aten.com/us/en/learning-center/sdi-vs-ndi/
+https://www.bmdswitchers.com/guide-ndi-vs-sdi/
+https://www.datavideo.com/us/article/397/ndi-sdi-hdmi-when-to-use
+https://www.churchproduction.com/production/ndi-vs-sdi-what-you-need-to-know/
+https://www.videoguys.com/guides/ndi-vs-sdi-choosing-the-right-video-solution
 
 ## Audio Overview Prompts
-
-### Overview 1: Fundamentals and Strategic Context
-For a senior IT director at Morning Brew leveling up to higher tech leadership, understanding NDI vs SDI Room Design Choices foundations, business drivers, and strategic importance.
-
-### Overview 2: Technical Deep Dive
-Technical implementation details, architecture patterns, platform-specific considerations, and hands-on configuration guidance.
-
-### Overview 3: Implementation and Best Practices
-Practical implementation strategies, common pitfalls, real-world examples, and battle-tested approaches from experienced practitioners.
-
-### Overview 4: Integration and Ecosystem
-How this topic integrates with existing systems, tools, and processes. Cross-functional considerations and organizational impact.
-
-### Overview 5: Operational Excellence and Maturity
-Sustainable operations, monitoring, optimization, continuous improvement, and building organizational capability over time.
+### Overview 1: SDI and NDI Fundamentals
+SDI (Serial Digital Interface) - dedicated cables, fixed bandwidth, proven reliability; NDI (Network Device Interface) - IP-based, standard network infrastructure.
+### Overview 2: Room Design Implications
+Cable runs vs network switches, latency requirements, camera placement flexibility, scalability considerations.
+### Overview 3: Cost and Infrastructure
+SDI infrastructure costs (cables, matrix, converters) vs NDI (network switches, bandwidth), hybrid approaches.
+### Overview 4: Use Cases and Decision Criteria
+When to use SDI (broadcast quality, guaranteed latency), when to use NDI (flexibility, multi-destination), hybrid workflows.
+### Overview 5: Future-Proofing Media Infrastructure
+SMPTE ST 2110, IP transition roadmap, maintaining SDI investment while adopting NDI selectively.
 
 ## Usage Instructions
-1. Create a new notebook in Google NotebookLM
-2. Copy all URLs from the Sources section
-3. Paste into NotebookLM
-4. Generate audio overviews using prompts in sequence (1→2→3→4→5)
-
-This learning path is tailored for IT leaders transitioning to strategic tech leadership roles.
+Create NotebookLM notebook, paste sources, generate overviews 1→5
